@@ -8,7 +8,7 @@ config:
 ---
 sequenceDiagram
   Actor Seller as Seller
-  participant System as ProSale System
+  participant System as Auction System
   participant AI_Module as AI Module
   Actor Buyer as Buyer
   participant AuctionBank as Auction Bank A/C
